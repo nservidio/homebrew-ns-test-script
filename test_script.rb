@@ -1,4 +1,4 @@
-class Weather < Formula
+class TestScript < Formula
   desc "A command line tool"
   homepage "https://github.com/TheHipbot/weather"
   url "https://github.com/nservidio/test-script/blob/master/archive/test_script-1.0.0.tar.gz?raw=true"
@@ -8,6 +8,6 @@ class Weather < Formula
   bottle :unneeded
 
   def install
-    bin.install "weather"
+    bin.install "test_script"
   end
 end
