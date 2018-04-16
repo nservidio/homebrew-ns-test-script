@@ -1,7 +1,7 @@
 class TestScript < Formula
   desc "A command line tool"
   homepage "https://github.com/TheHipbot/weather"
-  url "https://github.com/nservidio/test-script/blob/master/archive/test_script-1.0.0.tar.gz?raw=true"
+  url "https://github.com/nservidio/test-script/master/archive/test_script-1.0.0.tar.gz"
   sha256 "1756ce80a28b818fea5ddc94f041ca4b3e43029696c81acf074faf0450849aa7"
   version "1.0.0"
 
